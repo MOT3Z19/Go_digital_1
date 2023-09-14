@@ -1,9 +1,9 @@
-<img width="261" alt="Screen Shot 2023-09-12 at 7 29 26 PM" src="https://github.com/MOT3Z19/Go_digital_1/assets/78319903/c3571c58-3fc6-4146-bf19-2d02e29992b0"># newproject1
-![Uploading Screenshot 2023-09-14 at 10.07.37 AM.png…]()
+<img width="261" alt="Screen Shot 2023-09-12 at 7 29 26 PM" src=""># newproject1
 
 A new Flutter project.
 
 ## Getting Started
+![Uploading Screenshot 2023-09-14 at 10.07.37 AM.png…]()
 
 This project is a starting point for a Flutter application.
 
